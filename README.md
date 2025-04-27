@@ -1,9 +1,6 @@
 # 🧑🏽‍💻 About Me:
 Sou Um Estudante De Desenvolvimento De Sistemas.
 
-<br>
-
-----
 
 # 💭 FRASE
 "UMA GOTA DE PRÁTICA VALE MAIS QUE UM MAR DE TEORIA"
