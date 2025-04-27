@@ -20,7 +20,9 @@
 |--------------|--------------|
 | ![](https://github-readme-stats.vercel.app/api?username=danilo-jds&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false+) | ![](https://nirzak-streak-stats.vercel.app/?user=danilo-jds&theme=shadow_red&hide_border=false) |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-jds&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-jds&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+</div>
 
 <br>
 
