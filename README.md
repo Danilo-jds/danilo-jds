@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=68&center=true&vCenter=true&height=300&width=1000&lines=HELLO,+MY+NAME+is+Danilo;I'm+28+years+old;I+am+from+São+Paulo,+SP;I+study+development+de+systems+;Be+Welcome!+:%29+follow+me+on+github😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=68&center=true&vCenter=true&height=300&width=1500&lines=HELLO,+MY+NAME+is+Danilo;I'm+28+years+old;I+am+from+São+Paulo,+SP;I+study+development+de+systems+;Be+Welcome!+:%29+follow+me+on+github😉)](https://git.io/typing-svg)
 
 
 <br>
