@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 
 | GitHub Stats | Streak Stats |
-|--------------|--------------|
+|color=FF0000--------------|--------------|
 | ![](https://github-readme-stats.vercel.app/api?username=danilo-jds&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false+) | ![](https://nirzak-streak-stats.vercel.app/?user=danilo-jds&theme=shadow_red&hide_border=false) |
 
 <div align="center">
