@@ -4,7 +4,7 @@ Sou Um Estudante De Desenvolvimento De Sistemas.
 
 ------
 
-# 💭 FRASE
+ 💭 FRASE
 "UMA GOTA DE PRÁTICA VALE MAIS QUE UM MAR DE TEORIA"
 <br>
 (BRUCE LEE)
