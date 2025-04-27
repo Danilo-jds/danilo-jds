@@ -1,7 +1,6 @@
-# 🧑🏽‍💻 About Me:
-Sou Um Estudante De Desenvolvimento De Sistemas.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Danilo;I'm+28+years+old;I+am+from+São+Paulo,+SP;I+study+development+de+systems+;Be+Welcome!+:%29+follow+me+on+github😉)](https://git.io/typing-svg)
 
-<hr>
+<br>
 
 # 💭 PHRASE 
 "UMA GOTA DE PRÁTICA VALE MAIS QUE UM MAR DE TEORIA"
@@ -16,21 +15,13 @@ Sou Um Estudante De Desenvolvimento De Sistemas.
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danilo-jds&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)
 
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=danilo-jds&theme=shadow_red&hide_border=false)
-
-<br/>
+| GitHub Stats | Streak Stats |
+|--------------|--------------|
+| ![](https://github-readme-stats.vercel.app/api?username=danilo-jds&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false+) | ![](https://nirzak-streak-stats.vercel.app/?user=danilo-jds&theme=shadow_red&hide_border=false) |
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-jds&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danilo-jds&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
-------
 
 
