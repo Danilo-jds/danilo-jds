@@ -1,10 +1,9 @@
 # 🧑🏽‍💻 About Me:
 Sou Um Estudante De Desenvolvimento De Sistemas.
 
-
 ------
 
- <h2> 💭 PHRASE </h2>
+# 💭 PHRASE 
 "UMA GOTA DE PRÁTICA VALE MAIS QUE UM MAR DE TEORIA"
 <br>
 (BRUCE LEE)
